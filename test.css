@@ -1,0 +1,29 @@
+body {
+    font-family: Garamond, serif;
+    background-color: #FFFFFF;
+}
+h1 {
+    text-align: center;
+}
+.hed {
+    background-color: #000000;
+    color: white;
+}
+.one {
+    margin-left: auto;
+    text-align: center;
+    background-color: #FFFFFF;
+    border: 2px solid black;
+    height: 150px;
+    width: 250px;
+    border-radius: 8px;
+}
+.ost {
+    width: 800px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+#uho {
+    position: absolute;
+    margin-left: 100px;
+}
